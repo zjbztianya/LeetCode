@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode solution with Golang
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
