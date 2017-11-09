@@ -9,16 +9,14 @@ func max(a int, b int) int {
 
 func lengthOfLongestSubstring(s string) int {
 	mp := make(map[uint8]int)
-	ans:=0
+	ans := 0
 	last_pos := -1
-	for i:=0; i < len(s); i++ {
-		if _, ok:=mp[s[i]]; ok {
-			ans = max(ans, i - last_pos)
-			last_pos = i
-		}else {
-			mp[s[i]] = i
+	for i := 0; i < len(s); i++ {
+		if pos, ok := mp[s[i]]; ok && last_pos < pos {
+			last_pos = pos
 		}
+		ans = max(ans, i-last_pos)
+		mp[s[i]] = i
 	}
-	ans = max(ans, len(s) - last_pos)
 	return ans
 }
