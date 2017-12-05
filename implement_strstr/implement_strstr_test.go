@@ -10,8 +10,8 @@ func TestStrStr(t *testing.T) {
 	}{{"aaaa", "aa", 0},
 		{"", "", 0},
 		{"aabca", "ab", 1},
-		{"aa","",0},
-		{"","aa",-1},
+		{"aa", "", 0},
+		{"", "aa", -1},
 	}
 
 	for _, test := range tests {

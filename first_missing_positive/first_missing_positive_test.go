@@ -9,7 +9,7 @@ func TestFirstMissingPositive(t *testing.T) {
 	}{{[]int{1, 2, 0}, 3},
 		{[]int{3, 4, -1, 1}, 2},
 		{[]int{}, 1},
-		{[]int{1},2},
+		{[]int{1}, 2},
 	}
 
 	for _, test := range tests {

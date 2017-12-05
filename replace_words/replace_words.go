@@ -21,7 +21,7 @@ func NewTrie() Trie {
 func (this *Trie) Insert(word string) {
 	u := this.root
 	for _, ch := range word {
-		idx:=ch -'a'
+		idx := ch - 'a'
 		if u.child[idx] == nil {
 			u.child[idx] = new(TrieNode)
 		}
@@ -35,7 +35,7 @@ func (this *Trie) SearchPrefix(word string) string {
 	u := this.root
 	ans := ""
 	for i, ch := range word {
-		idx:=ch -'a'
+		idx := ch - 'a'
 		if u.child[idx] == nil {
 			break
 		}
@@ -60,7 +60,7 @@ func replaceWords(dict []string, sentence string) string {
 		if word != "" {
 			words = append(words, word)
 		} else {
-			words = append(words,sentences[i])
+			words = append(words, sentences[i])
 		}
 	}
 	return strings.Join(words, " ")

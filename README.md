@@ -6,6 +6,8 @@
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Golang](./longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.go)|Medium|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Golang](./median_of_two_sorted_arrays/median_of_two_sorted_arrays.go)|Hard|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Golang](./longest_palindromic_substring/longest_palindromic_substring.go)|Medium|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Golang](./zigzag_conversion/zigzag-conversion.go)|Medium|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Golang](./reverse_integer/reverse_integer.go)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Golang](./remove_element/remove_element.go)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Golang](./implement_strstr/implement_strstr.go)|Easy|

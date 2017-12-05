@@ -1,8 +1,8 @@
 package group_anagrams
 
 import (
-	"testing"
 	"reflect"
+	"testing"
 )
 
 func TestGroupAnagrams(t *testing.T) {
@@ -13,7 +13,7 @@ func TestGroupAnagrams(t *testing.T) {
 		[][]string{{"ate", "eat", "tea"}, {"nat", "tan"}, {"bat"}},
 	}
 
-	if got:=groupAnagrams(test.input); !reflect.DeepEqual(got,test.output){
-		t.Errorf("groupAnagrams(%v)=%v want:%v",test.input,got,test.output)
+	if got := groupAnagrams(test.input); !reflect.DeepEqual(got, test.output) {
+		t.Errorf("groupAnagrams(%v)=%v want:%v", test.input, got, test.output)
 	}
 }

@@ -1,8 +1,8 @@
 package permutations_II
 
 import (
-	"testing"
 	"reflect"
+	"testing"
 )
 
 func TestPermuteUnique(t *testing.T) {
@@ -12,7 +12,7 @@ func TestPermuteUnique(t *testing.T) {
 	}{
 		[]int{1, 1, 2}, [][]int{{1, 1, 2}, {1, 2, 1}, {2, 1, 1}},
 	}
-	if got:=permuteUnique(test.input); !reflect.DeepEqual(got,test.output){
-		t.Errorf("permuteUnique(%v)=%v want:%v",test.input,got,test.output)
+	if got := permuteUnique(test.input); !reflect.DeepEqual(got, test.output) {
+		t.Errorf("permuteUnique(%v)=%v want:%v", test.input, got, test.output)
 	}
 }

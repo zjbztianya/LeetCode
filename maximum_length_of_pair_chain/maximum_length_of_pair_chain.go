@@ -9,9 +9,9 @@ type Seg struct {
 
 type segList []Seg
 
-func (s segList) Len() int           { return len(s) }
-func  Less(i, j int) bool { return s[i].r < s[j].r }
-func (s segList) Swap(i, j int)      { s[i], s[j] = s[j], s[i] }
+func (s segList) Len() int      { return len(s) }
+func Less(i, j int) bool        { return s[i].r < s[j].r }
+func (s segList) Swap(i, j int) { s[i], s[j] = s[j], s[i] }
 
 func findLongestChain(pairs [][]int) int {
 	var p segList

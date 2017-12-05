@@ -16,7 +16,7 @@ func TestTwoSum(t *testing.T) {
 
 	for i := range tests {
 		if got := twoSum(tests[i].nums, tests[i].target); !reflect.DeepEqual(got, tests[i].want) {
-			t.Errorf("twoSum(%v %v)=%v, want:%v",tests[i].nums,tests[i].target,got,tests[i].want)
+			t.Errorf("twoSum(%v %v)=%v, want:%v", tests[i].nums, tests[i].target, got, tests[i].want)
 		}
 	}
 }
