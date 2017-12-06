@@ -8,6 +8,7 @@
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Golang](./longest_palindromic_substring/longest_palindromic_substring.go)|Medium|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Golang](./zigzag_conversion/zigzag_conversion.go)|Medium|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Golang](./reverse_integer/reverse_integer.go)|Easy|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Golang](./string_to_integer_atoi/string_to_integer_atoi.go)|Medium|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Golang](./remove_element/remove_element.go)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Golang](./implement_strstr/implement_strstr.go)|Easy|
