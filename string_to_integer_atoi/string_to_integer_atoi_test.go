@@ -17,7 +17,7 @@ func TestMyAtoi(t *testing.T) {
 		{"-2147483649", math.MinInt32},
 		{"0000", 0},
 		{"-0000", 0},
-		{"",0},
+		{"", 0},
 	}
 	for i, test := range tests {
 		if got := myAtoi(test.input); got != test.output {
