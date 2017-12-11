@@ -14,6 +14,7 @@
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Golang](./container_with_most_water/container_with_most_water.go)|Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Golang](./integer_to_roman/integer_to_roman.go)|Medium|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Golang](./roman_to_integer/roman_to_integer.go)|Easy|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Golang](./longest_common_prefix/longest_common_prefix.go)|Easy|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Golang](./remove_element/remove_element.go)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Golang](./implement_strstr/implement_strstr.go)|Easy|
