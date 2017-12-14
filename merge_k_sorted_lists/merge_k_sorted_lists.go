@@ -27,13 +27,6 @@ func (p *IntSlice) Pop() interface{} {
 	return top
 }
 
-func Min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func mergeKLists(lists []*ListNode) *ListNode {
 	if len(lists) == 0 {
 		return nil
