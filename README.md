@@ -25,6 +25,7 @@
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Golang](./generate_parentheses/generate_parentheses.go)|Medium|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Golang](./merge_k_sorted_lists/merge_k_sorted_lists.go)|Hard|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Golang](./swap_nodes_in_pairs/swap_nodes_in_pairs.go)|Medium|
+|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Golang](./reverse_nodes_in_k_group/reverse_nodes_in_k_group.go)|Hard|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Golang](./remove_element/remove_element.go)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Golang](./implement_strstr/implement_strstr.go)|Easy|
