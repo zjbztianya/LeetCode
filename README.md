@@ -29,7 +29,8 @@
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Golang](./remove_element/remove_element.go)|Easy|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Golang](./implement_strstr/implement_strstr.go)|Easy|
-|029|[Two Sum](https://leetcode.com/problems/divide-two-integers/description/) | [Golang](./divide_two_integers/divide_two_integers.go)|Medium|
+|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Golang](./divide_two_integers/divide_two_integers.go)|Medium|
+|030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Golang](./find_substring/find_substring.go)|Hard|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [Golang](./search_for_a_range/search_for_a_range.go)|Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-positio/description/) | [Golang](./search_insert_position/search_insert_position.go)|Easy|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Golang](./combination_sum/combination_sum.go)|Medium|
