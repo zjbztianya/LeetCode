@@ -36,6 +36,7 @@
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Golang](./search_in_rotated_sorted_array/search_in_rotated_sorted_array.go)|Medium|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [Golang](./search_for_a_range/search_for_a_range.go)|Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-positio/description/) | [Golang](./search_insert_position/search_insert_position.go)|Easy|
+|036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Golang](./valid_sudoku/valid_sudoku.go)|Medium|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Golang](./combination_sum/combination_sum.go)|Medium|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Golang](./combination_sum_II/combination_sum_II.go)|Medium|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Golang](./first_missing_positive/first_missing_positive.go)|Hard|
