@@ -45,11 +45,13 @@
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) | [Golang](./permutations/permutations.go)|Medium|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Golang](./permutations_II/permutations_II.go)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Golang](./rotate_image/rotate_image.go)|Medium|
-|049|[Group Anagrams](htt4ps://leetcode.com/problems/group-anagrams/description/) | [Golang](./group_anagrams/group_anagrams.go)|Medium|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Golang](./group_anagrams/group_anagrams.go)|Medium|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Golang](./pow/pow.go)|Medium|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Golang](./spiral_matrix/spiral_matrix.go)|Medium|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) | [Golang](./jump_game/jump_game.go)|Medium|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Golang](./len_of_last_word/len_of_last_word.go)|Easy|
+|059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Golang](./spiral_matrix_ii/spiral_matrix_ii.go)|Medium|
+|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Golang](./permutation_sequence/permutation_sequence.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
