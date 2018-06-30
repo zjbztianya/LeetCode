@@ -42,6 +42,7 @@
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Golang](./first_missing_positive/first_missing_positive.go)|Hard|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Golang](./trapping_rain_water/trapping_rain_water.go)|Hard|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [Golang](./multiply_strings/multiply_strings.go)|Medium|
+|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Golang](./jump_game_ii/jump_game_ii.go)|Hard|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) | [Golang](./permutations/permutations.go)|Medium|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Golang](./permutations_II/permutations_II.go)|Medium|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Golang](./rotate_image/rotate_image.go)|Medium|
@@ -52,6 +53,11 @@
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Golang](./len_of_last_word/len_of_last_word.go)|Easy|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Golang](./spiral_matrix_ii/spiral_matrix_ii.go)|Medium|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Golang](./permutation_sequence/permutation_sequence.go)|Medium|
+|061|[Rotate List ](https://leetcode.com/problems/lrotate-list/description/) | [Golang](./rotate_list/rotate_list.go)|Medium|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Golang](./unique_paths/unique_paths.go)|Medium|
+|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Golang](./unique_paths_ii/unique_paths_ii.go)|Medium|
+|064|[Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/description/) | [Golang](./minimum_path_sum/minimum_path_sum.go)|Medium|
+|066|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Golang](./plus_one/plus_one.go)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
