@@ -58,6 +58,10 @@
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Golang](./unique_paths_ii/unique_paths_ii.go)|Medium|
 |064|[Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/description/) | [Golang](./minimum_path_sum/minimum_path_sum.go)|Medium|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Golang](./plus_one/plus_one.go)|Easy|
+|067|[Add Binary](https://leetcode.com/problems/add-binary/description/) | [Golang](./add_binary/add_binary.go)|Easy|
+|069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Golang](./sqrtx/sqrtx.go)|Easy|
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Golang](./climbing_stairs/climbing_stairs.go)|Easy|
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Golang](./edit_distance/edit_distance.go)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
