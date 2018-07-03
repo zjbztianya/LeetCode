@@ -62,6 +62,13 @@
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Golang](./sqrtx/sqrtx.go)|Easy|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Golang](./climbing_stairs/climbing_stairs.go)|Easy|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Golang](./edit_distance/edit_distance.go)|Hard|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Golang](./set_matrix_zeroes/set_matrix_zeroes.go)|Medium|
+|074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Golang](./search_2d_matrix/search_2d_matrix.go)|Medium|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Golang](./sort_colors/sort_colors.go)|Medium|
+|076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Golang](./minimum_window_substring/minimum_window_substring.go)|Hard|
+|077|[Combinations](https://leetcode.com/problems/combinations/description/) | [Golang](./combinations/combinations.go)|Medium|
+|078|[Subsets](https://leetcode.com/problems/subsets/description/) | [Golang](./subsets/subsets.go)|Medium|
+|079|[Word Search](https://leetcode.com/problems/word-search/description/) | [Golang](./word_search/word_search.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
