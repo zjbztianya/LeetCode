@@ -69,6 +69,11 @@
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) | [Golang](./combinations/combinations.go)|Medium|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) | [Golang](./subsets/subsets.go)|Medium|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) | [Golang](./word_search/word_search.go)|Medium|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [Golang](./remove_duplicates/remove_duplicates.go)|Medium|
+|081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Golang](./search_rotated/search_rotated.go)|Medium|
+|082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Golang](./delete_duplicates_ii/delete_duplicates_ii.go)|Medium|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Golang](./delete_duplicates/delete_duplicates.go)|Medium|
+|084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Golang](./largest_rectangle_area/largest_rectangle_area.go)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
