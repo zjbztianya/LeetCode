@@ -97,6 +97,7 @@
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Golang](./min_depth/min_depth.go)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [Golang](./has_path_sum/has_path_sum.go)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Golang](./path_sum/path_sum.go)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [Golang](./flatten/flatten.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
