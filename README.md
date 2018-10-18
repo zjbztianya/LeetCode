@@ -74,6 +74,29 @@
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Golang](./delete_duplicates_ii/delete_duplicates_ii.go)|Medium|
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Golang](./delete_duplicates/delete_duplicates.go)|Medium|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Golang](./largest_rectangle_area/largest_rectangle_area.go)|Hard|
+|085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Golang](./maximal_rectangle/maximal_rectangle.go)|Hard|
+|086|[Partition List](https://leetcode.com/problems/partition-list/description/) | [Golang](./partition_list/partition_list.go)|Medium|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Golang](./merge_sorted_array/merge_sorted_array.go)|Easy|
+|089|[Gray Code](https://leetcode.com/problems/gray-code/description/) | [Golang](./gray_code/gray_code.go)|Medium|
+|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Golang](./subsets_ii/subsets_ii.go)|Medium|
+|091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Golang](./decode_ways/decode_ways.go)|Medium|
+|092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [Golang](./reverse_linked_list_ii/reverse_linked_list_ii.go)|Medium|
+|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Golang](./unique_bst_ii/unique_bst_ii.go)|Medium|
+|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Golang](./unique_bst/unique_bst.go)|Medium|
+|097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Golang](./interleaving_string/interleaving_string.go)|Hard|
+|098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Golang](./validate_bst/validate_bst.go)|Medium|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Golang](./level_order/level_order.go)|Medium|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Golang](./zigzag_level_order/zigzag_level_order.go)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Golang](./max_depth/max_depth.go)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [Golang](./build_tree/build_tree.go)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Golang](./build_tree2/build_tree2.go)|Medium|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Golang](./level_order_bottom/level_order_bottom.go)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [Golang](./sorted_array_to_BST/sorted_array_to_BST.go)|Easy|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Golang](./sorted_list_to_bst/sorted_list_to_bst.go)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Golang](./balanced_tree/balanced_tree.go)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Golang](./min_depth/min_depth.go)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [Golang](./has_path_sum/has_path_sum.go)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Golang](./path_sum/path_sum.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|

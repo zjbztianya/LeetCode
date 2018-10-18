@@ -1,7 +1,4 @@
-//package search_rotated
-package main
-
-import "fmt"
+package search_rotated
 
 func search(nums []int, target int) bool {
 	l, r := 0, len(nums)-1
@@ -28,9 +25,4 @@ func search(nums []int, target int) bool {
 		}
 	}
 	return false
-}
-
-func main() {
-	var nums = []int{1, 1, 3, 1}
-	fmt.Println(search(nums, 3))
 }

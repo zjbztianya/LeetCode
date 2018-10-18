@@ -15,7 +15,7 @@ func swapPairs(head *ListNode) *ListNode {
 	p := dummyHead
 	var n int
 	var next *ListNode
-	for ;head != nil; head = next {
+	for ; head != nil; head = next {
 		if (n & 1) == 0 {
 			next = head.Next
 			p.Next = head

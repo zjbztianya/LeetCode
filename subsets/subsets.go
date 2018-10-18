@@ -20,7 +20,7 @@ func subsets(nums []int) [][]int {
 	return ans
 }
 
-func main()  {
-	nums:=[]int{1,2,3}
+func main() {
+	nums := []int{1, 2, 3}
 	fmt.Println(subsets(nums))
 }

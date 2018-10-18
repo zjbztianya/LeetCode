@@ -15,5 +15,5 @@ func canJump(nums []int) bool {
 			return false
 		}
 	}
-	return pos >= n - 1
+	return pos >= n-1
 }
