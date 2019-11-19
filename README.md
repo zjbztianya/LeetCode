@@ -98,8 +98,63 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) | [Golang](./has_path_sum/has_path_sum.go)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [Golang](./path_sum/path_sum.go)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [Golang](./flatten/flatten.go)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Golang](./pascals_triangle/pascals_triangle.go)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Golang](./pascals_triangle_ii/pascals_triangle_ii.go)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/) | [Golang](./triangle/triangle.go)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](./max_profit/max_profit.go)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](./max_profit_ii/max_profit_ii.go)|Easy|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Golang](./max_path_sum/max_path_sum.go)|Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Golang](./valid_palindrome/valid_palindrome.go)|Easy|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](./sum_numbers/sum_numbers.go)|Medium|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Golang](./surrounded_regions/surrounded_regions.go)|Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang](./palindrome_partitioning/palindrome_partitioning.go)|Medium|
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](./palindrome_partitioning_ii/palindrome_partitioning_ii.go)|Hard|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [Golang](./single_number/single_number.go)|Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Golang](./single_number_ii/single_number_ii.go)|Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/) | [Golang](./word_break/word_break.go)|Medium|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/) | [Golang](./word_break_ii/word_break_ii.go)|Hard|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](./linked_list_cycle/linked_list_cycle.go)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Golang](./linked_list_cycle_ii/linked_list_cycle_ii.go)|Medium|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/) | [Golang](./reorder_list/reorder_list.go)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](./preorder_traversal/preorder_traversal.go)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](./postorder_traversal/postorder_traversal.go)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Golang](./lru_cache/lru_cache.go)|Hard|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Golang](./insertion_sort_list/insertion_sort_list.go)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/) | [Golang](./sort_list/sort_list.go)|Medium|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Golang](./reverse_words/reverse_words.go)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](./max_product/max_product.go)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Golang](./find_min/find_min.go)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Golang](./min_stack/min_stack.go)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Golang](./intersection/intersection.go)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Golang](./find_peak_element/find_peak_element.go)|Medium|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Golang](./maximum_gap/maximum_gap.go)|Hard|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Golang](./compare_version/compare_version.go)|Medium|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Golang](./fraction_to_decimal/fraction_to_decimal.go)|Medium|
+|167|[Two Sum II-Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Golang](./two_sum167/two_sum167.go)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Golang](./convert_to_title/convert_to_title.go)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Golang](./majority_element/majority_element.go)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Golang](./title_to_number/title_to_number.go)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Golang](./trailing_zeroes/trailing_zeroes.go)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Golang](./BST_iterator/BST_iterator.go) |Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/) | [Golang](./largest_number/largest_number.go)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Golang](./repeated_dna_sequences/repeated_dna_sequences.go)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Golang](./rotate_array/rotate_array.go)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Golang](./reverse_bits/reverse_bits.go)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Golang](./hamming_weight/hamming_weight.go)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [Golang](./house_robber/house_robber.go)|Easy|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Golang](./right_side_view/right_side_view.go)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Golang](./num_islands/num_islands.go)|Medium|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Golang](./range_bitwise_and/range_bitwise_and.go)|Medium|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Golang](./happy_number/happy_number.go)|Easy|
+|203|[Sqrt(x)](https://leetcode.com/problems/remove-linked-list-elements/) | [Golang](./remove_elements/remove_elements.go)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Golang](./count_primes/count_primes.go)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Golang](./isomorphic_strings/isomorphic_strings.go)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Golang](./course_schedule/course_schedule.go)|Medium|
 |208|[Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Golang](./implement_trie/implement_trie.go)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Golang](./min_subarray_len/min_subarray_len.go)|Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Golang](./course_schedule_ii/course_schedule_ii.go)|Medium|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Golang](./house_robber_ii/house_robber_ii.go)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Golang](./kth_largest_element/kth_largest_element.go)|Medium|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) | [Golang](./solve_the_equation/solve_the_equation.go)|Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Golang](./maximum_average_subarray/maximum_average_subarray.go)|Easy|
