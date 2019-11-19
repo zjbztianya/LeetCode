@@ -1,7 +1,8 @@
 # LeetCode
-解决的题目:180/1268
-通过的提交:253/395
-提交通过率:64.05%
+- 解决的题目:180/1268
+- 通过的提交:253/395
+- 提交通过率:64.05
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Golang](./two_sum/two_sum.go)|Easy|
