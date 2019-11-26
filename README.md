@@ -1,7 +1,7 @@
 # LeetCode
-![](https://img.shields.io/badge/解决的题目-180/1268-red.svg)
-![](https://img.shields.io/badge/通过的提交-253/395-blue.svg)
-![](https://img.shields.io/badge/提交通过率-64.05%-green.svg)
+![](https://img.shields.io/badge/解决的题目-182/1268-red.svg)
+![](https://img.shields.io/badge/通过的提交-255/397-blue.svg)
+![](https://img.shields.io/badge/提交通过率-64.23%-green.svg)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -159,6 +159,8 @@
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Golang](./course_schedule_ii/course_schedule_ii.go)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Golang](./house_robber_ii/house_robber_ii.go)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Golang](./kth_largest_element/kth_largest_element.go)|Medium|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Golang](./combination_sum_iii/combination_sum_iii.go)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Golang](./contains_duplicate/contains_duplicate.go)|Easy|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | [Golang](./lfu_cache/lfu_cache.go)|Hard|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) | [Golang](./solve_the_equation/solve_the_equation.go)|Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Golang](./maximum_average_subarray/maximum_average_subarray.go)|Easy|
