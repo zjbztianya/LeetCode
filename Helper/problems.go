@@ -22,7 +22,7 @@ func (ps problems) accepted() problems {
 func (ps problems) available() problems {
 	res := make([]problem, 0, len(ps))
 	size := len(ps)
-	for i := size - 1; i >= 0; i-- {
+	for i := 0; i < size; i++ {
 		p := ps[i]
 		if p.isAvailable() {
 			res = append(res, p)
