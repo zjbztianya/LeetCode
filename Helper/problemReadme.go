@@ -26,8 +26,7 @@ func creatREADME(p problem, s string) {
 
 	write(filename, content)
 
-	vscodeOpen(filename)
-
+	//vscodeOpen(filename)
 }
 
 func replaceCharacters(s string) string {

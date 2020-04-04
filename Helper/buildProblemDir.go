@@ -79,7 +79,7 @@ func build(p problem) {
 	defer syscall.Umask(mask)
 
 	// 创建目录
-	err := os.Mkdir(p.Dir(), 0755)
+	err := os.MkdirAll(p.Dir(), 0755)
 	if err != nil {
 		log.Panicf("无法创建目录，%s ：%s", p.Dir(), err)
 	}
@@ -152,7 +152,7 @@ type TreeNode = kit.TreeNode
 
 	write(filename, content)
 
-	vscodeOpen(filename)
+	//vscodeOpen(filename)
 }
 
 func creatGoTest(p problem, fcName, para, ansType string) {
@@ -211,8 +211,7 @@ import (
 
 	write(filename, content)
 
-	vscodeOpen(filename)
-
+	//vscodeOpen(filename)
 }
 
 // 把 函数的参数 变成 tc 的参数

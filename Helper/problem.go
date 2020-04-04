@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"path/filepath"
 	"strconv"
 	"strings"
 )
@@ -43,8 +44,8 @@ func (p problem) isAvailable() bool {
 }
 
 func (p problem) Dir() string {
-	path := "Algorithms"
-	return fmt.Sprintf("./%s/%04d.%s", path, p.ID, p.TitleSlug)
+	return filepath.Join("Algorithms",
+		fmt.Sprintf("%04d.%s", p.ID, p.TitleSlug))
 }
 
 func (p problem) link() string {
